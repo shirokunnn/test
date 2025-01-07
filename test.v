@@ -7,3 +7,5 @@ $display("Hello world.");
 //git status
 //git log
 //practice pull file to local
+//git reset --hard HEAD^
+
