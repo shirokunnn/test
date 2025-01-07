@@ -1,5 +1,7 @@
 //test
 //three stages process, stage->commit->push
 $display("Hello world.");
-//first, git init
-//second git add filename.v
+//git init
+//git add filename.v
+//git commit -m "text"
+//git status
