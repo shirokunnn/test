@@ -5,3 +5,4 @@ $display("Hello world.");
 //git add filename.v
 //git commit -m "text"
 //git status
+//git log
