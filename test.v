@@ -6,3 +6,4 @@ $display("Hello world.");
 //git commit -m "text"
 //git status
 //git log
+//practice pull file to local
